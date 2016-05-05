@@ -1,0 +1,19 @@
+img{
+  float: left;
+  height: 350px;
+  width: 420px;
+  padding-right: 10px;
+}
+.column{
+  float: left;
+  width: 220px;
+  padding-left:20px;
+}
+
+.events {
+  float: right;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  background-color: yellow;
+}
