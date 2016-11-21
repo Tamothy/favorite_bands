@@ -10,7 +10,7 @@ This contains an CSS layout practicing columns and floats, utilizing floats left
 
 ## Setup/Installation Requirements
 
-* Check out the GitHub pages link: https://tamothy.github.io/favorite-bands
+* Check out the GitHub pages link: https://tamothy.github.io/favorite_bands
 * Clone repository if interested in making changes
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
