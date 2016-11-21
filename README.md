@@ -6,7 +6,7 @@
 
 ## Description
 
-This contains a CSS layout practicing columns and floats, utilizing floats lefts and CSS selectors
+This contains a CSS layout practicing columns and floats, utilizing float lefts and CSS selectors
 
 ## Setup/Installation Requirements
 
