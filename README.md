@@ -1,6 +1,6 @@
 # Favorite Bands (Alicia Keys)
 
-#### CSS excercise practicing columns and floats
+#### CSS exercise practicing columns and floats
 
 #### By Tam Nguyen
 
